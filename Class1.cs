@@ -8,9 +8,9 @@ namespace MathsLib
 {
     public class Class1
     {
-        public static int Sum(int a, int b)
+        public static int Sum(int x , int y)
         {
-            return a + b; 
+            return x + y; 
         }
     }
 }

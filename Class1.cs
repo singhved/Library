@@ -14,4 +14,4 @@ namespace MathsLib
         }
     }
 }
-//
+// We can use this for further projects 
